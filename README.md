@@ -13,10 +13,8 @@
 ### 🚀 Un poco sobre mí
 Soy **Adrian Felipe**, un apasionado de la tecnología enfocado en el desarrollo de software y la ciberseguridad. Me gusta crear soluciones eficientes y explorar el mundo de la programación orientada a objetos.
 
-- 🔭 **Proyectos actuales:** Hackatones y retos de lógica en Java.
 - 🌱 **En formación:** Profundizando en **OOP** y algoritmos de optimización.
 - 🐧 **Entusiasta de:** Personalización de entornos Linux y herramientas de productividad.
-- ⚡ **Fun Fact:** Soy usuario Pro de GitHub y siempre busco que mi código (y mi perfil) se vean impecables.
 
 ---
 
@@ -32,22 +30,21 @@ Soy **Adrian Felipe**, un apasionado de la tecnología enfocado en el desarrollo
 </p>
 
 ---
-
-### 📊 Estadísticas de GitHub
+### 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PipeIll&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipeIll&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PipeIll&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de PipeIll" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipeIll&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes de PipeIll" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipeIll&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipeIll&theme=tokyonight&hide_border=true" width="100%" alt="Racha de contribuciones" />
 </p>
 
 ---
 
 ### 📫 Contacto y Redes
 <p align="left">
-<a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto: aparicio07felipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/adrian-aparicio-chaparro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
