@@ -1,55 +1,58 @@
-# ## Hola, soy [Tu Nombre/Alias] 👋
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Hola,%20soy%20PipeIll%20👋&fontSize=65&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
----
-
-### 🚀 Sobre mí
-Soy un apasionado de la tecnología y el desarrollo de software. Me encanta personalizar entornos Linux, resolver retos de lógica y explorar nuevas herramientas para optimizar mi flujo de trabajo.
-
-- 🔭 **Actualmente trabajo en:** [Nombre de tu proyecto principal]
-- 🌱 **Aprendiendo:** Programación orientada a objetos y algoritmos avanzados.
-- 🐧 **Entorno:** Usuario entusiasta de distribuciones Linux (preferiblemente Arch/Garuda).
-- 🐱 **Dato curioso:** Mi gata se llama Pandora y es la jefa de seguridad de mis archivos.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Estudiando-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-OOP%20%26%20Java-blue?style=flat-square" />
+  <img src="https://img.shields.io/github/followers/PipeIll?label=Followers&style=flat-square&color=6e5494" />
+</p>
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🚀 Un poco sobre mí
+Soy **Adrian Felipe**, un apasionado de la tecnología enfocado en el desarrollo de software y la ciberseguridad. Me gusta crear soluciones eficientes y explorar el mundo de la programación orientada a objetos.
+
+- 🔭 **Proyectos actuales:** Hackatones y retos de lógica en Java.
+- 🌱 **En formación:** Profundizando en **OOP** y algoritmos de optimización.
+- 🐧 **Entusiasta de:** Personalización de entornos Linux y herramientas de productividad.
+- ⚡ **Fun Fact:** Soy usuario Pro de GitHub y siempre busco que mi código (y mi perfil) se vean impecables.
+
+---
+
+### 🛠️ Stack Tecnológico
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PipeIll&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipeIll&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipeIll&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 📫 Contacto y Redes
+<p align="left">
+<a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/adrian-aparicio-chaparro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<br />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&langs_count=7&theme=dracula" />
-</div>
-
----
-
-### 🏆 Certificaciones y Retos
-* **Cybersecurity:** Completados niveles de OverTheWire (Bandit) y retos en picoCTF.
-* **Proyectos:** Desarrollando modelos 3D en Blender y herramientas de productividad.
-
----
-
-### 📫 Conéctame
-<p align="left">
-<a href="mailto:[tu-correo@ejemplo.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/[tu-usuario]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=[TU_USUARIO_AQUÍ]&color=blueviolet&style=flat-square&label=VISITAS" />
+  <img src="https://komarev.com/ghpvc/?username=PipeIll&color=00b4d8&style=flat-square&label=PERFIL+VISITADO" />
 </div>
