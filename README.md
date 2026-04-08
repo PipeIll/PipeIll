@@ -24,7 +24,9 @@
 
 ### 📈 Mi actividad en GitHub
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PipeIll)](https://github.com/anuraghazra/github-readme-stats)
+![Estadísticas de PipeIll](https://github-readme-stats.vercel.app/api?username=PipeIll&show_icons=true&theme=radical)
+![Lenguajes de PipeIll](https://github-readme-stats.vercel.app/api/top-langs/?username=PipeIll&layout=compact&theme=tokyonight)
+![Estadísticas Transparentes](https://github-readme-stats.vercel.app/api?username=PipeIll&show_icons=true&theme=transparent)
 
 </p>
 <h3 align="center">Connect with me:</h3>
