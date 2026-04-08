@@ -1,8 +1,6 @@
 ![Header](./github-header-banner.png)
-</samp>
- <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-</p>
-<details align="center">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
   
 <h3 align="left">Skills:</h3>
 <p align="center">
