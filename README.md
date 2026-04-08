@@ -25,10 +25,11 @@
 ### 📈 Mi actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PipeIIl&show_icons=true&theme=radical" alt="Estadísticas de PipeIIl" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipeIIl&layout=compact&theme=tokyonight" alt="Lenguajes de PipeIIl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PipeIIl&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipeIIl&layout=compact&theme=tokyonight" width="400" />
 </p>
+
+---
 
 </p>
 <h3 align="center">Connect with me:</h3>
