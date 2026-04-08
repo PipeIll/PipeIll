@@ -1,43 +1,55 @@
-<!-- Typing animation header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD¢er=true&width=435&lines=Hola%2C+soy+Felipe+%F0%9F%91%8B;Ingenieria+de+Sistemas;Apasionado+por+Java+%E2%98%95" />
+# ## Hola, soy [Tu Nombre/Alias] 👋
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=70" width="100%" />
+</div>
+
+---
+
+### 🚀 Sobre mí
+Soy un apasionado de la tecnología y el desarrollo de software. Me encanta personalizar entornos Linux, resolver retos de lógica y explorar nuevas herramientas para optimizar mi flujo de trabajo.
+
+- 🔭 **Actualmente trabajo en:** [Nombre de tu proyecto principal]
+- 🌱 **Aprendiendo:** Programación orientada a objetos y algoritmos avanzados.
+- 🐧 **Entorno:** Usuario entusiasta de distribuciones Linux (preferiblemente Arch/Garuda).
+- 🐱 **Dato curioso:** Mi gata se llama Pandora y es la jefa de seguridad de mis archivos.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
 ---
 
-<img align="right" src="https://komarev.com/ghpvc/?username=PipeIll&color=7F77DD&style=flat" />
+### 📊 Mis Estadísticas de GitHub
 
-### 🙋 Sobre mi
-
-```yaml
-nombre: Felipe
-universidad: Universidad Distrital Francisco Jose de Caldas
-carrera: Ingenieria de Sistemas
-ubicacion: Bogota, Colombia 🇨🇴
-lenguaje_principal: Java ☕
-estado: "Aprendiendo cada dia 🌱"
-```
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&langs_count=7&theme=dracula" />
+</div>
 
 ---
 
-### 🛠️ Tecnologias
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🏆 Certificaciones y Retos
+* **Cybersecurity:** Completados niveles de OverTheWire (Bandit) y retos en picoCTF.
+* **Proyectos:** Desarrollando modelos 3D en Blender y herramientas de productividad.
 
 ---
 
-### 📊 Mis stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PipeIll&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipeIll&layout=compact&theme=tokyonight" />
+### 📫 Conéctame
+<p align="left">
+<a href="mailto:[tu-correo@ejemplo.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/[tu-usuario]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
-### 📬 Contactame
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-EMAIL)
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=[TU_USUARIO_AQUÍ]&color=blueviolet&style=flat-square&label=VISITAS" />
+</div>
