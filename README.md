@@ -24,9 +24,11 @@
 
 ### 📈 Mi actividad en GitHub
 
-![Estadísticas de PipeIll](https://github-readme-stats.vercel.app/api?username=PipeIll&show_icons=true&theme=radical)
-![Lenguajes de PipeIll](https://github-readme-stats.vercel.app/api/top-langs/?username=PipeIll&layout=compact&theme=tokyonight)
-![Estadísticas Transparentes](https://github-readme-stats.vercel.app/api?username=PipeIll&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PipeIIl&show_icons=true&theme=radical" alt="Estadísticas de PipeIIl" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipeIIl&layout=compact&theme=tokyonight" alt="Lenguajes de PipeIIl" />
+</p>
 
 </p>
 <h3 align="center">Connect with me:</h3>
