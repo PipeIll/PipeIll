@@ -11,7 +11,6 @@
 * 🐧 **Linux User:** Disfruto personalizando mi entorno (Linux Ricing) y aprendiendo a dominar la terminal.
 * 🎵 **Melómano:** La música es indispensable en mi día a día; siempre hay algo sonando mientras programo.
 
----
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -20,13 +19,15 @@
     <img src="https://skillicons.dev/icons?i=git,bash,kali,cpp,idea,java,js,py,pycharm,linux " />
   </a>
 
----
 
 ### 📈 Mi actividad en GitHub
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
----
+<a href="https://github.com/PipeIll/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PipeIll" />
+</a>
+<a href="https://github.com/PipeIll/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PipeIll&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 </p>
 <h3 align="center">Connect with me:</h3>
