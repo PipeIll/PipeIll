@@ -2,11 +2,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
   
-<h3 align="left">Skills:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,kali,cpp,idea,java,js,py,pycharm,linux " />
-  </a>
   ## 👤 Sobre mí
 
 ¡Hola! 👋 Soy **Adrian Felipe**, estudiante de **Ingeniería de Sistemas** en la **Universidad Distrital Francisco José de Caldas**. Actualmente curso **segundo semestre** y estoy enfocado en construir una base sólida como desarrollador.
@@ -20,9 +15,10 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,linux,bash,git,github,vscode,neovim,blender" />
-</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,kali,cpp,idea,java,js,py,pycharm,linux " />
+  </a>
 
 ---
 
