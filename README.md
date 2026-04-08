@@ -23,3 +23,18 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" />
   </a>
 </p>
+## 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhmaltintas/mhmaltintas/main/assets/rainbow-bar.gif" width="100%" height="3px" />
+</p>
+
+```javascript
+const felipe = {
+  university: "Universidad Distrital Francisco José de Caldas",
+  major: "Systems Engineering",
+  semester: "Second Semester",
+  location: "Bogotá, Colombia",
+  hobbies: ["Music", "Programming", "Linux Ricing", "Cybersecurity"],
+  mindset: "Stay curious, build things, break things (on purpose)."
+};
