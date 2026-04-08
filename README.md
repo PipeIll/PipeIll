@@ -24,10 +24,8 @@
 
 ### 📈 Mi actividad en GitHub
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PipeIll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b4d8" width="48%" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipeIll&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b4d8" width="48%" alt="Langs" />
-</p>
+https://github-readme-stats.vercel.app/api?username=PipeIll&show_icons=true&theme=tokyonight&hide_border=true
+
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
