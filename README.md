@@ -24,7 +24,7 @@
 
 ### 📈 Mi actividad en GitHub
 
-https://github-readme-stats.vercel.app/api?username=PipeIll&show_icons=true&theme=tokyonight&hide_border=true
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PipeIll)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 <h3 align="center">Connect with me:</h3>
