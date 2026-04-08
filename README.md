@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Hola,%20soy%20PipeIll%20👋&fontSize=65&animation=fadeIn&fontAlignY=35" width="100%" />
-</div>
+</div><img width="1665" height="142" alt="ascii-art-text" src="https://github.com/user-attachments/assets/55c42cf9-4885-4625-a0c0-c8cd1e31bcd5" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Estudiando-brightgreen?style=flat-square" />
