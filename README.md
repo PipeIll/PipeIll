@@ -1,3 +1,4 @@
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 ![Header](./github-header-banner.png)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
