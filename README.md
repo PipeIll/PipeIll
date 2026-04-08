@@ -22,12 +22,12 @@
 
 ### 📈 Mi actividad en GitHub
 
-<a href="https://github.com/PipeIll/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PipeIll" />
+<p align="center">
+<a href="https://github.com/sebas2287ti">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebas2287ti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sebas2287ti&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<a href="https://github.com/PipeIll/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PipeIll&layout=compact&langs_count=8&card_width=320" />
-</a>
+</p>
 
 </p>
 <h3 align="center">Connect with me:</h3>
